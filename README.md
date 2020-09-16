@@ -1,3 +1,4 @@
+
 # Content-Cross-Linker
 
  - [x] **У вас есть огромный текст?**
@@ -8,3 +9,4 @@
 |--|--|--|--|
 |  | Привет, а что такое *текст*? | *текст\|ссылка* | Привет, а что такое [текст](https://github.com/whitered932/Content-Cross-Linker/)?
 
+![пример работы](https://sun9-32.userapi.com/sVpcdo_qDIJej6cBpoQJgjIu-K-NbomE_VbRoQ/UVhVysgiGlY.jpg)
